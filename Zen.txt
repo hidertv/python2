@@ -1,1 +1,2 @@
 24.Flat is better than nested.
+47.Errors should never pass silently.
